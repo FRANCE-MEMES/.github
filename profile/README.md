@@ -1,12 +1,10 @@
-## Hi there 👋
+## Yo ! 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+### [WhatThePhoqueBot](https://github.com/LotharieSlayer/wtpbot.git)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+L'un des bots de FM entièrement open-source, vous permet d'automatiser les tâches répétitives pour les modérateurs, de créer des événements et de gérer le support directement dans votre serveur staff. Le vrai dépôt est sur mon compte [@LotharieSlayer](https://github.com/LotharieSlayer).
+
+### [Site web](https://francememes.com)
+
+La version 1.0 du site web. Aucune mise à jour n'est fournie.
