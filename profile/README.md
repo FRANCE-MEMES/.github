@@ -3,7 +3,7 @@
 
 ### [WhatThePhoqueBot](https://github.com/LotharieSlayer/wtpbot.git)
 
-L'un des bots de FM entièrement open-source, vous permet d'automatiser les tâches répétitives pour les modérateurs, de créer des événements et de gérer le support directement dans votre serveur staff. Le vrai dépôt est sur mon compte [@LotharieSlayer](https://github.com/LotharieSlayer).
+L'un des bots de FM entièrement open-source, il vous permet d'automatiser les tâches répétitives pour les modérateurs, de créer des événements et de gérer le support directement dans votre serveur staff. Le dépôt se trouve sur mon compte [@LotharieSlayer](https://github.com/LotharieSlayer).
 
 ### [Site web](https://francememes.com)
 
